@@ -128,8 +128,7 @@ s2_Students
   b.) Beginner Arduino With Tinkercad Circuits
   https://www.instructables.com/Beginner-Arduino-With-Tinkercad-Circuits/
   
- **codecademy: [https://www.codecademy.com/][https://www.codecademy.com/?g_acctid=243-039-7011&g_keywordid=kwd-78958985904710:loc-190&g_adid=&g_keyword=codecademy&g_campaign=US_Brand_Exact&g_adtype=search&g_network=o&g_adgroupid=1263339270701571&g_campaignid=370028884&utm_id=t_kwd-78958985904710:loc-190:ag_1263339270701571:cp_370028884:n_o:d_c&hsa_acc=2430397011&hsa_cam=1954939391&hsa_grp=1263339270701571&hsa_ad=&hsa_src=o&hsa_tgt=kwd-78958985904710:loc-190&hsa_kw=codecademy&hsa_mt=e&hsa_net=adwords&hsa_ver=3&msclkid=e84f0252998f1aea411e609dd36bbc5c&utm_source=bing&utm_medium=cpc&utm_campaign=US_Brand_Exact&utm_term=codecademy&utm_content=Codecademy)
-
+ **codecademy: https://www.codecademy.com/
 <!-- **What is _TBD-term-2_**: TBD-definition-2
 
 ### :keyboard: Activity: TBD-step-2-name
