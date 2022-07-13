@@ -71,14 +71,18 @@ s1_Teachers
   d.) CS Principles (HS grades 9-12)
   e.) CSA (HS grades 9-12)
 
- **Code with Google**: 
+ **Code with Google**: https://edu.google.com/code-with-google/
   a.) Virtual Training
+  https://csfirst.withgoogle.com/s/en/teachers
   b.) Live, In-Person Workshops
   https://support.google.com/csfirst/answer/9128355?hl=en&ref_topic=9080768&hl=en
+  c.) Basics of Code- Online Course 
+  https://learndigital.withgoogle.com/digitalgarage/course/basics-code
+
+**MakeCode with Microsoft**: https://www.microsoft.com/en-us/makecode/teach
 
 **The Computer Workshop Inc**: https://www.tcworkshop.com/ +
 
-  
 **Ashland University**: https://www.ashland.edu/eashland/faqs/find-class/  
   nothing at this time, but I have seen true coding / programming courses offered in the past
 
@@ -109,15 +113,22 @@ s2_Students
   
 **Google CS First Curriculum Series**:  https://csfirst.withgoogle.com/s/en/home
   a.) Classroom Kits +
-  
-  b.) PD - f2f Workshops & Distance Learning 
-  https://csfirst.withgoogle.com/s/en/teachers
-  c.)
-  d.) 
-  e.) 
-  
+
+**MakeCode with Microsoft**: https://www.microsoft.com/en-us/makecode
+
+**Learn to Code with Grasshopper*: https://grasshopper.app/
  
+**Kodable*: https://www.kodable.com/
   
+**Common Sense Media: Age-Based Media Reviews*: https://www.commonsensemedia.org/
+  
+**Tinkercad*: https://www.tinkercad.com
+  a.) Tinkercad projects step-by-step tutorials - AeroArduino.com
+  https://www.tinkercad.com/things/dEOWWJatCtv-arduino-simulator
+  b.) Beginner Arduino With Tinkercad Circuits
+  https://www.instructables.com/Beginner-Arduino-With-Tinkercad-Circuits/
+  
+ **codecademy: [https://www.codecademy.com/?g_acctid=243-039-7011&g_keywordid=kwd-78958985904710:loc-190&g_adid=&g_keyword=codecademy&g_campaign=US_Brand_Exact&g_adtype=search&g_network=o&g_adgroupid=1263339270701571&g_campaignid=370028884&utm_id=t_kwd-78958985904710:loc-190:ag_1263339270701571:cp_370028884:n_o:d_c&hsa_acc=2430397011&hsa_cam=1954939391&hsa_grp=1263339270701571&hsa_ad=&hsa_src=o&hsa_tgt=kwd-78958985904710:loc-190&hsa_kw=codecademy&hsa_mt=e&hsa_net=adwords&hsa_ver=3&msclkid=e84f0252998f1aea411e609dd36bbc5c&utm_source=bing&utm_medium=cpc&utm_campaign=US_Brand_Exact&utm_term=codecademy&utm_content=Codecademy](https://www.codecademy.com/)
 
 <!-- **What is _TBD-term-2_**: TBD-definition-2
 
