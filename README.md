@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# TBD-course-name
+# GWC Club sponsored by Otterbein University at 'the Point' 
 
-_TBD-course-description_
+_ Coding Resources for Eductors_
 
 <!--
   <<< Author notes: Start of the course >>>
