@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# GWC Club sponsored by Otterbein University at 'the Point' 
+# Coding Resources for Eductors
 
-_ Coding Resources for Eductors_
+_GWC Club sponsored by Otterbein University at 'the Point'_
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -52,19 +52,41 @@ endstep0-->
 -->
 
 <details id=1 open>
-<summary><h2>Step 1: TBD-step-1-name</h2></summary>
+<summary><h2>Section 1: Earn Credit &/or CEUs while Learning!</h2></summary>
 
-_Welcome to "TBD-course-name"! :wave:_
+_Welcome to "Coding Resources for Eductors"! :wave:_
 
-TBD-step-1-information
+s1_Teachers
 
-**What is _TBD-term-1_**: TBD-definition-1
+**CodeHS**: https://codehs.com/
+  a.) Free Virtual PD Workshops
+  b.) Online PD Courses ($$ 8 total)
+  c.) In-Person PD Workshops
+  d.) State Certification Prep Courses
+ 
+**Code.org**: https://code.org/professional-development-workshops
+  a.) CS Fundamentals (MS) +
+  b.) Deep Dive Workshop (MS)
+  c.) CS Discoveries (MS/HS grades 6-10) +
+  d.) CS Principles (HS grades 9-12)
+  e.) CSA (HS grades 9-12)
 
-### :keyboard: Activity: TBD-step-1-name
+ **Code with Google**: 
+  a.) Virtual Training
+  b.) Live, In-Person Workshops
+  https://support.google.com/csfirst/answer/9128355?hl=en&ref_topic=9080768&hl=en
+
+**The Computer Workshop Inc**: https://www.tcworkshop.com/ +
+
+  
+**Ashland University**: https://www.ashland.edu/eashland/faqs/find-class/  
+  nothing at this time, but I have seen true coding / programming courses offered in the past
+
+<!-- ### :keyboard: Activity: TBD-step-1-name
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. TBD-step-1-instructions.
-1. Wait about 20 seconds then refresh this page for the next step.
+1. Wait about 20 seconds then refresh this page for the next step. -->
 
 </details>
 
@@ -76,18 +98,33 @@ TBD-step-1-information
 -->
 
 <details id=2>
-<summary><h2>Step 2: TBD-step-2-name</h2></summary>
+<summary><h2>Section 2: Student Materials & References</h2></summary>
 
-_You did TBD-step-1-name! :tada:_
+s2_Students
 
-TBD-step-2-information
+**CodeHS**: https://codehs.com/
+>>> Customizable K-12 Computer Science Curriculum
+  
+**GitHub Education**: https://education.github.com/
+  
+**Google CS First Curriculum Series**:  https://csfirst.withgoogle.com/s/en/home
+  a.) Classroom Kits +
+  
+  b.) PD - f2f Workshops & Distance Learning 
+  https://csfirst.withgoogle.com/s/en/teachers
+  c.)
+  d.) 
+  e.) 
+  
+ 
+  
 
-**What is _TBD-term-2_**: TBD-definition-2
+<!-- **What is _TBD-term-2_**: TBD-definition-2
 
 ### :keyboard: Activity: TBD-step-2-name
 
 1. TBD-step-2-instructions.
-1. Wait about 20 seconds then refresh this page for the next step.
+1. Wait about 20 seconds then refresh this page for the next step. -->
 
 </details>
 
